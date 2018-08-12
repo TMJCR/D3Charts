@@ -1,0 +1,492 @@
+AreaName,Parent,AreaCode,Population
+Amber Valley,em01,em0101,114
+Bolsover,em01,em0102,70.3
+Chesterfield,em01,em0103,99.2
+Derby,em01,em0104,230.4
+Derbyshire Dales,em01,em0105,68.7
+Erewash,em01,em0106,107.3
+High Peak,em01,em0107,87.6
+North East Derbyshire,em01,em0108,97
+South Derbyshire,em01,em0109,77.9
+Blaby,em02,em0201,86.6
+Charnwood,em02,em0202,152
+Harborough,em02,em0203,72.9
+Hinckley & Bosworth,em02,em0204,98.9
+Leicester,em02,em0205,290.1
+Melton,em02,em0206,46.2
+North West Leicestershire,em02,em0207,83.5
+Oadby & Wigston,em02,em0208,54.4
+Rutland,em02,em0209,32.8
+Boston,em03,em0301,54.5
+East Lindsey,em03,em0302,124.4
+Lincoln,em03,em0303,84
+North Kesteven,em03,em0304,86.5
+South Holland,em03,em0305,72.4
+South Kesteven,em03,em0306,121.9
+West Lindsey,em03,em0307,77.5
+Corby,em04,em0401,52.9
+Daventry,em04,em0402,66.9
+East Northamptonshire,em04,em0403,70.9
+Kettering,em04,em0404,79.7
+Northampton,em04,em0405,194.1
+South Northamptonshire,em04,em0406,75.6
+Wellingborough,em04,em0407,69.5
+Ashfield,em05,em0501,108.8
+Bassetlaw,em05,em0502,105.2
+Broxtowe,em05,em0503,109
+Gedling,em05,em0504,111.8
+Mansfield,em05,em0505,99.8
+Newark & Sherwood,em05,em0506,104.3
+Nottingham,em05,em0507,278.5
+Rushcliffe,em05,em0508,102.6
+Bedford,et01,et0101,139.9
+Luton,et01,et0102,182.4
+Central Bedfordshire,et01,et0103,226.5
+Cambridge,et02,et0201,108.3
+East Cambridgeshire,et02,et0202,68.7
+Fenland,et02,et0203,80.2
+Huntingdonshire,et02,et0204,154.3
+Peterborough,et02,et0205,156.5
+South Cambridgeshire,et02,et0206,127.4
+Basildon,et03,et0301,162.2
+Braintree,et03,et0302,125.3
+Brentwood,et03,et0303,69.5
+Castle Point,et03,et0304,85.6
+Chelmsford,et03,et0305,156
+Colchester,et03,et0306,153.6
+Epping Forest,et03,et0307,118.9
+Harlow,et03,et0308,75.4
+Maldon,et03,et0309,55.5
+Rochford,et03,et0310,76
+Southend-on-Sea,et03,et0311,164.8
+Tendring,et03,et0312,132.8
+Thurrock,et03,et0313,135.6
+Uttlesford,et03,et0314,67.6
+Broxbourne,et04,et0401,82.1
+Dacorum,et04,et0402,135.5
+East Hertfordshire,et04,et0403,125.4
+Hertsmere,et04,et0404,92.3
+North Hertfordshire,et04,et0405,114.3
+St. Albans,et04,et0406,127.2
+Stevenage,et04,et0407,77.4
+Three Rivers,et04,et0408,80.8
+Watford,et04,et0409,79.1
+Welwyn Hatfield,et04,et0410,95.4
+Breckland,et05,et0501,114.6
+Broadland,et05,et0502,113.8
+Great Yarmouth,et05,et0503,89.1
+King's Lynn & West Norfolk,et05,et0504,132.3
+North Norfolk,et05,et0505,96.1
+Norwich,et05,et0506,122.8
+South Norfolk,et05,et0507,106
+Babergh,et06,et0601,80.6
+Forest Heath,et06,et0602,64.1
+Ipswich,et06,et0603,114.7
+Mid Suffolk,et06,et0604,82.3
+St. Edmundsbury,et06,et0605,94.1
+Suffolk Coastal,et06,et0606,115.7
+Waveney,et06,et0607,108.5
+Barking & Dagenham Borough,gl01,gl0101,158.4
+Barnet Borough,gl02,gl0201,304.8
+Bexley Borough,gl03,gl0301,215.9
+Brent Borough,gl04,gl0401,255.5
+Bromley Borough,gl05,gl0501,292.7
+Camden Borough,gl06,gl0601,185.5
+City of London Borough,gl07,gl0701,5.7
+Croydon Borough,gl08,gl0801,331.2
+Ealing Borough,gl09,gl0901,293.9
+Enfield Borough,gl10,gl1001,268
+Greenwich Borough,gl11,gl1101,211.3
+Hackney Borough,gl12,gl1201,191.8
+Hammersmith & Fulham Borough,gl13,gl1301,154.8
+Haringey Borough,gl14,gl1401,214.8
+Harrow Borough,gl15,gl1501,206.8
+Havering Borough,gl16,gl1601,225.7
+Hillingdon Borough,gl17,gl1701,242.8
+Hounslow Borough,gl18,gl1801,210.1
+Islington Borough,gl19,gl1901,175.8
+Kensington & Chelsea Borough,gl20,gl2001,141.8
+Kingston upon Thames Borough,gl21,gl2101,141.4
+Lambeth Borough,gl22,gl2201,260.2
+Lewisham Borough,gl23,gl2301,244.1
+Merton Borough,gl24,gl2401,181.5
+Newham Borough,gl25,gl2501,231.2
+Redbridge Borough,gl26,gl2601,234.8
+Richmond upon Thames Borough,gl27,gl2701,169.8
+Southwark Borough,gl28,gl2801,238.8
+Sutton Borough,gl29,gl2901,176.9
+Tower Hamlets Borough,gl30,gl3001,184.6
+Waltham Forest Borough,gl31,gl3101,220.1
+Wandsworth Borough,gl32,gl3201,260.5
+Westminster Borough,gl33,gl3301,181.6
+Hartlepool,ne01,ne0101,90
+Middlesbrough,ne01,ne0102,144.5
+Redcar & Cleveland,ne01,ne0103,140.7
+Stockton-on-Tees,ne01,ne0104,178.1
+County Durham,ne02,ne0201,498.3
+Darlington,ne02,ne0202,99.3
+Northumberland,ne03,ne0301,306.7
+Gateshead,ne04,ne0401,195.9
+Newcastle upon Tyne,ne04,ne0402,278.1
+North Tyneside,ne04,ne0403,190.7
+South Tyneside,ne04,ne0404,155
+Sunderland,ne04,ne0405,290.9
+Chester West & Chester,nw01,nw0101,319.1
+Chester East,nw01,nw0102,351.1
+Halton,nw01,nw0103,121
+Warrington,nw01,nw0104,188.9
+Allerdale,nw02,nw0201,94.8
+Barrow-in-Furness,nw02,nw0202,72.1
+Carlisle,nw02,nw0203,101.9
+Copeland,nw02,nw0204,70.4
+Eden,nw02,nw0205,48.5
+South Lakeland,nw02,nw0206,100.5
+Bolton,nw03,nw0301,260
+Bury,nw03,nw0302,179.7
+Manchester,nw03,nw0303,418.2
+Oldham,nw03,nw0304,219
+Rochdale,nw03,nw0305,204.1
+Salford,nw03,nw0306,223.9
+Stockport,nw03,nw0307,286.6
+Tameside,nw03,nw0308,215.9
+Trafford,nw03,nw0309,213.8
+Wigan,nw03,nw0310,302.1
+Blackburn with Darwen,nw04,nw0401,138.9
+Blackpool,nw04,nw0402,145.5
+Burnley,nw04,nw0403,91
+Chorley,nw04,nw0404,97.9
+Fylde,nw04,nw0405,72.7
+Hyndburn,nw04,nw0406,80.6
+Lancaster,nw04,nw0407,134.2
+Pendle,nw04,nw0408,87.2
+Preston,nw04,nw0409,132.4
+Ribble Valley,nw04,nw0410,52.1
+Rossendale,nw04,nw0411,65.3
+South Ribble,nw04,nw0412,102.3
+West Lancashire,nw04,nw0413,108.2
+Wyre,nw04,nw0414,103.5
+Knowsley,nw05,nw0501,152.8
+Liverpool,nw05,nw0502,456.7
+Sefton,nw05,nw0503,286.5
+St. Helens,nw05,nw0504,176.9
+Wirral,nw05,nw0505,320.4
+East Ayrshire,sc01,sc0101,121.4
+North Ayrshire,sc01,sc0102,137.7
+South Ayrshire,sc01,sc0103,113.6
+Scottish Borders,sc02,sc0201,105.9
+Clackmannanshire,sc03,sc0301,48.5
+Falkirk,sc03,sc0302,143.3
+Stirling,sc03,sc0303,84
+Argyll & Bute,sc04,sc0401,91.7
+East Dunbartonshire,sc04,sc0402,109.3
+West Dunbartonshire,sc04,sc0403,95.2
+Dumfries & Galloway,sc05,sc0501,148.6
+Fife,sc06,sc0601,346.6
+"Glasgow, City of",sc07,sc0701,591
+Aberdeen City,sc08,sc0801,217.2
+Aberdeenshire,sc08,sc0802,226.1
+Eilean Siar (Western Isles),sc09,sc0901,27.9
+Highland,sc09,sc0902,208.6
+Moray,sc09,sc0903,87.1
+Orkney Islands,sc09,sc0904,19.7
+Shetland Islands,sc09,sc0905,22.8
+North Lanarkshire,sc10,sc1001,322.4
+South Lanarkshire,sc10,sc1002,304.3
+East Lothian,sc11,sc1101,87.7
+"Edinburgh, City of",sc11,sc1102,445.6
+Midlothian,sc11,sc1103,79.5
+West Lothian,sc11,sc1104,151.7
+East Renfrewshire,sc12,sc1201,87.9
+Inverclyde,sc12,sc1202,86.4
+Renfrewshire,sc12,sc1203,175.8
+Angus,sc13,sc1301,110
+Dundee City,sc13,sc1302,151.2
+Perth & Kinross,sc13,sc1303,134
+Bracknell Forest,se01,se0101,108.8
+Reading,se01,se0102,142.2
+Slough,se01,se0103,116.5
+West Berkshire,se01,se0104,143.6
+Windsor & Maidenhead,se01,se0105,134.8
+Wokingham,se01,se0106,146.6
+Aylesbury Vale,se02,se0201,157.8
+Chiltern,se02,se0202,90.9
+Milton Keynes,se02,se0203,199.7
+South Bucks,se02,se0204,61.2
+Wycombe,se02,se0205,161.2
+Brighton & Hove,se03,se0301,244.8
+Eastbourne,se03,se0302,87.5
+Hastings,se03,se0303,82.4
+Lewes,se03,se0304,88.7
+Rother,se03,se0305,86
+Wealden,se03,se0306,137.4
+Basingstoke & Deane,se04,se0401,149.1
+East Hampshire,se04,se0402,108.4
+Eastleigh,se04,se0403,110.9
+Fareham,se04,se0404,105.1
+Gosport,se04,se0405,76.9
+Hart,se04,se0406,82.8
+Havant,se04,se0407,116.7
+New Forest,se04,se0408,168.5
+Portsmouth,se04,se0409,189.5
+Rushmoor,se04,se0410,87.2
+Southampton,se04,se0411,213.9
+Test Valley,se04,se0412,106.6
+Winchester,se04,se0413,105.3
+Isle of Wight,se05,se0501,127.3
+Ashford,se06,se0601,97.4
+Canterbury,se06,se0602,132.4
+Dartford,se06,se0603,83.8
+Dover,se06,se0604,103.5
+Gravesham,se06,se0605,93.3
+Maidstone,se06,se0606,138.4
+Medway Towns,se06,se0607,242.6
+Sevenoaks,se06,se0608,109.3
+Shepway,se06,se0609,94.8
+Swale,se06,se0610,118.2
+Thanet,se06,se0611,125.3
+Tonbridge & Malling,se06,se0612,104.6
+Tunbridge Wells,se06,se0613,101.7
+Cherwell,se07,se0701,127.6
+Oxford,se07,se0702,133
+South Oxfordshire,se07,se0703,125.7
+Vale of White Horse,se07,se0704,112.2
+West Oxfordshire,se07,se0705,94.7
+Elmbridge,se08,se0801,119.3
+Epsom & Ewell,se08,se0802,66.5
+Guildford,se08,se0803,125.6
+Mole Valley,se08,se0804,79.4
+Reigate & Banstead,se08,se0805,122.2
+Runnymede,se08,se0806,75.8
+Spelthorne,se08,se0807,89.2
+Surrey Heath,se08,se0808,79.9
+Tandridge,se08,se0809,76.8
+Waverley,se08,se0810,114.7
+Woking,se08,se0811,88.3
+Adur,se09,se0901,58.5
+Arun,se09,se0902,136.7
+Chichester,se09,se0903,103.9
+Crawley,se09,se0904,96.6
+Horsham,se09,se0905,118.5
+Mid Sussex,se09,se0906,125.6
+Worthing,se09,se0907,96.2
+Bath & North East Somerset,sw01,sw0101,164.8
+"Bristol, City of",sw01,sw0102,389.2
+North Somerset,sw01,sw0103,184.1
+South Gloucestershire,sw01,sw0104,236.1
+Cornwall,sw02,sw0201,483.1
+Isles of Scilly,sw02,sw0202,2
+East Devon,sw03,sw0301,122.1
+Exeter,sw03,sw0302,108.1
+Mid Devon,sw03,sw0303,66.3
+North Devon,sw03,sw0304,85.7
+Plymouth,sw03,sw0305,245.8
+South Hams,sw03,sw0306,80.1
+Teignbridge,sw03,sw0307,116.9
+Torbay,sw03,sw0308,124.4
+Torridge,sw03,sw0309,55.2
+West Devon,sw03,sw0310,47
+Bournemouth,sw04,sw0401,160.4
+Christchurch,sw04,sw0402,43.6
+East Dorset,sw04,sw0403,81.8
+North Dorset,sw04,sw0404,58.9
+Poole,sw04,sw0405,138.9
+Purbeck,sw04,sw0406,44.2
+West Dorset,sw04,sw0407,89.9
+Weymouth & Portland,sw04,sw0408,63.3
+Cheltenham,sw05,sw0501,108
+Cotswold,sw05,sw0502,79.8
+Forest of Dean,sw05,sw0503,77.7
+Gloucester,sw05,sw0504,107
+Stroud,sw05,sw0505,107.2
+Tewkesbury,sw05,sw0506,76.4
+Mendip,sw06,sw0601,100.2
+Sedgemoor,sw06,sw0602,102.8
+South Somerset,sw06,sw0603,148.5
+Taunton Deane,sw06,sw0604,98.6
+West Somerset,sw06,sw0605,33.5
+Wiltshire UA,sw07,sw0701,418.9
+Swindon,sw07,sw0702,175.3
+Blaenau Gwent,wa01,wa0101,72
+Caerphilly,wa01,wa0102,167.5
+Monmouthshire,wa01,wa0103,85
+Newport,wa01,wa0104,135.5
+Torfaen,wa01,wa0105,91.4
+Bridgend,wa02,wa0201,128.2
+Merthyr Tydfil,wa02,wa0202,57.4
+"Rhondda, Cynon, Taff",wa02,wa0203,235.8
+"Anglesey, Isle of",wa03,wa0301,68.1
+Conwy,wa03,wa0302,108.1
+Denbighshire,wa03,wa0303,90.6
+Flintshire,wa03,wa0304,144.8
+Gwynedd,wa03,wa0305,117.6
+Wrexham,wa03,wa0306,125.7
+Powys,wa04,wa0401,124.7
+Cardiff,wa05,wa0501,307.2
+The Vale of Glamorgan,wa05,wa0502,117
+Carmarthenshire,wa06,wa0601,171.5
+Ceredigion,wa06,wa0602,71.6
+Neath Port Talbot,wa06,wa0603,136.8
+Pembrokeshire,wa06,wa0604,111.7
+Swansea,wa06,wa0605,226.7
+Bromsgrove,wm01,wm0101,86.5
+Herefordshire,wm01,wm0102,168.5
+Malvern Hills,wm01,wm0103,72
+Redditch,wm01,wm0104,77.7
+Worcester,wm01,wm0105,90.9
+Wychavon,wm01,wm0106,108.5
+Wyre Forest,wm01,wm0107,96.8
+Shropshire UA,wm02,wm0201,275.1
+Telford and Wrekin,wm02,wm0202,149.8
+Cannock Chase,wm03,wm0301,90.7
+East Staffordshire,wm03,wm0302,101
+Lichfield,wm03,wm0303,93.3
+Newcastle-under-Lyme,wm03,wm0304,121.7
+South Staffordshire,wm03,wm0305,104.8
+Stafford,wm03,wm0306,123.1
+Staffordshire Moorlands,wm03,wm0307,93.3
+Stoke-on-Trent,wm03,wm0308,247.3
+Tamworth,wm03,wm0309,73.1
+North Warwickshire,wm04,wm0401,61.6
+Nuneaton & Bedworth,wm04,wm0402,118
+Rugby,wm04,wm0403,85.5
+Stratford-on-Avon,wm04,wm0404,109.8
+Warwick,wm04,wm0405,122.1
+Birmingham,wm05,wm0501,994.2
+Coventry,wm05,wm0502,304.9
+Dudley,wm05,wm0503,305.4
+Sandwell,wm05,wm0504,287.8
+Solihull,wm05,wm0505,200.7
+Walsall,wm05,wm0506,256.7
+Wolverhampton,wm05,wm0507,243
+East Riding of Yorkshire,yh01,yh0101,305.5
+"Kingston upon Hull, City of",yh01,yh0102,262.2
+North East Lincolnshire,yh01,yh0103,158.5
+North Lincolnshire,yh01,yh0104,152.3
+Craven,yh02,yh0201,52.3
+Hambleton,yh02,yh0202,82.8
+Harrogate,yh02,yh0203,145.9
+Richmondshire,yh02,yh0204,44.2
+Ryedale,yh02,yh0205,49.2
+Scarborough,yh02,yh0206,107
+Selby,yh02,yh0207,73.9
+York,yh02,yh0208,175.1
+Barnsley,yh03,yh0301,219.8
+Doncaster,yh03,yh0302,288.8
+Rotherham,yh03,yh0303,250.1
+Sheffield,yh03,yh0304,517.7
+Bradford,yh04,yh0401,469.2
+Calderdale,yh04,yh0402,191.1
+Kirklees,yh04,yh0403,384
+Leeds,yh04,yh0404,716.2
+Wakefield,yh04,yh0405,312.4
+Derbyshire,em,em01,
+Leicestershire,em,em02,
+Lincolnshire,em,em03,
+Northamptonshire,em,em04,
+Nottinghamshire,em,em05,
+Bedfordshire,et,et01,548.8
+Cambridgeshire,et,et02,695.3
+Essex,et,et03,1578.8
+Hertfordshire,et,et04,1009.5
+Norfolk,et,et05,774.6
+Suffolk,et,et06,660.1
+Barking & Dagenham,gl,gl01,158.4
+Barnet,gl,gl02,304.8
+Bexley,gl,gl03,215.9
+Brent,gl,gl04,255.5
+Bromley,gl,gl05,292.7
+Camden,gl,gl06,185.5
+City of London,gl,gl07,5.7
+Croydon,gl,gl08,331.2
+Ealing,gl,gl09,293.9
+Enfield,gl,gl10,268
+Greenwich,gl,gl11,211.3
+Hackney,gl,gl12,191.8
+Hammersmith & Fulham,gl,gl13,154.8
+Haringey,gl,gl14,214.8
+Harrow,gl,gl15,206.8
+Havering,gl,gl16,225.7
+Hillingdon,gl,gl17,242.8
+Hounslow,gl,gl18,210.1
+Islington,gl,gl19,175.8
+Kensington & Chelsea,gl,gl20,141.8
+Kingston upon Thames,gl,gl21,141.4
+Lambeth,gl,gl22,260.2
+Lewisham,gl,gl23,244.1
+Merton,gl,gl24,181.5
+Newham,gl,gl25,231.2
+Redbridge,gl,gl26,234.8
+Richmond upon Thames,gl,gl27,169.8
+Southwark,gl,gl28,238.8
+Sutton,gl,gl29,176.9
+Tower Hamlets,gl,gl30,184.6
+Waltham Forest,gl,gl31,220.1
+Wandsworth,gl,gl32,260.5
+Westminster,gl,gl33,181.6
+Cleveland,ne,ne01,553.3
+Durham (county of),ne,ne02,597.6
+Northumberland (county of),ne,ne03,306.7
+Tyne & Wear,ne,ne04,1110.6
+Cheshire,nw,nw01,980
+Cumbria,nw,nw02,488.2
+Greater Manchester,nw,nw03,2523.1
+Lancashire,nw,nw04,1411.8
+Merseyside,nw,nw05,1393.3
+Ayrshire,sc,sc01,372.7
+Borders,sc,sc02,105.9
+Central,sc,sc03,275.8
+Dumbartonshire,sc,sc04,296.1
+Dumfries & Galloway (county of),sc,sc05,148.6
+Fife (county of),sc,sc06,346.6
+Glasgow,sc,sc07,591
+Grampian,sc,sc08,443.3
+Highlands & Islands,sc,sc09,366.2
+Lanarkshire,sc,sc10,626.8
+Lothian,sc,sc11,764.5
+Renfrewshire (county of),sc,sc12,350.1
+Tayside,sc,sc13,395.2
+Berkshire,se,se01,792.5
+Buckinghamshire,se,se02,670.7
+East Sussex,se,se03,726.7
+Hampshire,se,se04,1620.8
+Isle of Wight (county of),se,se05,127.3
+Kent,se,se06,1545.1
+Oxfordshire,se,se07,593.2
+Surrey,se,se08,1037.8
+West Sussex,se,se09,736
+Avon,sw,sw01,974.2
+Cornwall & Isles of Scilly,sw,sw02,485
+Devon,sw,sw03,1051.5
+Dorset,sw,sw04,681
+Gloucestershire,sw,sw05,556.2
+Somerset,sw,sw06,483.5
+Wiltshire,sw,sw07,594.2
+Gwent,wa,wa01,551.3
+Mid-Glamorgan,wa,wa02,421.5
+North Wales,wa,wa03,654.9
+Powys (county of),wa,wa04,124.7
+South Glamorgan,wa,wa05,424.2
+West Wales,wa,wa06,718.3
+Hereford & Worcester,wm,wm01,701.2
+Shropshire,wm,wm02,424.8
+Staffordshire,wm,wm03,1048.3
+Warwickshire,wm,wm04,497
+West Midlands County,wm,wm05,2592.6
+Humberside,yh,yh01,878.4
+North Yorkshire,yh,yh02,730.4
+South Yorkshire,yh,yh03,1276.4
+West Yorkshire,yh,yh04,2072.9
+Northern Ireland,UK,ni,1671.28
+East Midlands,UK,em,4120.59
+East of England,UK,et,5267.16
+Greater London,UK,gl,7013.1
+North East,UK,ne,2568.33
+
+North West,UK,nw,6796.44
+Scotland,UK,sc,5082.89
+South East,UK,se,7850.11
+South West,UK,sw,4825.62
+Wales,UK,wa,2894.82
+West Midlands,UK,wm,5263.86
+Yorkshire & Humber,UK,yh,4958.08
+UK,,UK,58312.3

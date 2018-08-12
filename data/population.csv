@@ -1,0 +1,491 @@
+,AreaName,Parent,AreaCode,Population
+,Amber Valley,em01,em0101,114,em0101
+,Bolsover,em01,em0102,70.3,em0102
+,Chesterfield,em01,em0103,99.2,em0103
+,Derby,em01,em0104,230.4,em0104
+,Derbyshire Dales,em01,em0105,68.7,em0105
+,Erewash,em01,em0106,107.3,em0106
+,High Peak,em01,em0107,87.6,em0107
+,North East Derbyshire,em01,em0108,97,em0108
+,South Derbyshire,em01,em0109,77.9,em0109
+,Blaby,em02,em0201,86.6,em0201
+,Charnwood,em02,em0202,152,em0202
+,Harborough,em02,em0203,72.9,em0203
+,Hinckley & Bosworth,em02,em0204,98.9,em0204
+,Leicester,em02,em0205,290.1,em0205
+,Melton,em02,em0206,46.2,em0206
+,North West Leicestershire,em02,em0207,83.5,em0207
+,Oadby & Wigston,em02,em0208,54.4,em0208
+,Rutland,em02,em0209,32.8,em0209
+,Boston,em03,em0301,54.5,em0301
+,East Lindsey,em03,em0302,124.4,em0302
+,Lincoln,em03,em0303,84,em0303
+,North Kesteven,em03,em0304,86.5,em0304
+,South Holland,em03,em0305,72.4,em0305
+,South Kesteven,em03,em0306,121.9,em0306
+,West Lindsey,em03,em0307,77.5,em0307
+,Corby,em04,em0401,52.9,em0401
+,Daventry,em04,em0402,66.9,em0402
+,East Northamptonshire,em04,em0403,70.9,em0403
+,Kettering,em04,em0404,79.7,em0404
+,Northampton,em04,em0405,194.1,em0405
+,South Northamptonshire,em04,em0406,75.6,em0406
+,Wellingborough,em04,em0407,69.5,em0407
+,Ashfield,em05,em0501,108.8,em0501
+,Bassetlaw,em05,em0502,105.2,em0502
+,Broxtowe,em05,em0503,109,em0503
+,Gedling,em05,em0504,111.8,em0504
+,Mansfield,em05,em0505,99.8,em0505
+,Newark & Sherwood,em05,em0506,104.3,em0506
+,Nottingham,em05,em0507,278.5,em0507
+,Rushcliffe,em05,em0508,102.6,em0508
+,Bedford,et01,et0101,139.9,et0101
+,Luton,et01,et0102,182.4,et0102
+,Central Bedfordshire,et01,et0103,226.5,et0103
+,Cambridge,et02,et0201,108.3,et0201
+,East Cambridgeshire,et02,et0202,68.7,et0202
+,Fenland,et02,et0203,80.2,et0203
+,Huntingdonshire,et02,et0204,154.3,et0204
+,Peterborough,et02,et0205,156.5,et0205
+,South Cambridgeshire,et02,et0206,127.4,et0206
+,Basildon,et03,et0301,162.2,et0301
+,Braintree,et03,et0302,125.3,et0302
+,Brentwood,et03,et0303,69.5,et0303
+,Castle Point,et03,et0304,85.6,et0304
+,Chelmsford,et03,et0305,156,et0305
+,Colchester,et03,et0306,153.6,et0306
+,Epping Forest,et03,et0307,118.9,et0307
+,Harlow,et03,et0308,75.4,et0308
+,Maldon,et03,et0309,55.5,et0309
+,Rochford,et03,et0310,76,et0310
+,Southend-on-Sea,et03,et0311,164.8,et0311
+,Tendring,et03,et0312,132.8,et0312
+,Thurrock,et03,et0313,135.6,et0313
+,Uttlesford,et03,et0314,67.6,et0314
+,Broxbourne,et04,et0401,82.1,et0401
+,Dacorum,et04,et0402,135.5,et0402
+,East Hertfordshire,et04,et0403,125.4,et0403
+,Hertsmere,et04,et0404,92.3,et0404
+,North Hertfordshire,et04,et0405,114.3,et0405
+,St. Albans,et04,et0406,127.2,et0406
+,Stevenage,et04,et0407,77.4,et0407
+,Three Rivers,et04,et0408,80.8,et0408
+,Watford,et04,et0409,79.1,et0409
+,Welwyn Hatfield,et04,et0410,95.4,et0410
+,Breckland,et05,et0501,114.6,et0501
+,Broadland,et05,et0502,113.8,et0502
+,Great Yarmouth,et05,et0503,89.1,et0503
+,King's Lynn & West Norfolk,et05,et0504,132.3,et0504
+,North Norfolk,et05,et0505,96.1,et0505
+,Norwich,et05,et0506,122.8,et0506
+,South Norfolk,et05,et0507,106,et0507
+,Babergh,et06,et0601,80.6,et0601
+,Forest Heath,et06,et0602,64.1,et0602
+,Ipswich,et06,et0603,114.7,et0603
+,Mid Suffolk,et06,et0604,82.3,et0604
+,St. Edmundsbury,et06,et0605,94.1,et0605
+,Suffolk Coastal,et06,et0606,115.7,et0606
+,Waveney,et06,et0607,108.5,et0607
+,Barking & Dagenham Borough,gl01,gl0101,158.4,gl0101
+,Barnet Borough,gl02,gl0201,304.8,gl0201
+,Bexley Borough,gl03,gl0301,215.9,gl0301
+,Brent Borough,gl04,gl0401,255.5,gl0401
+,Bromley Borough,gl05,gl0501,292.7,gl0501
+,Camden Borough,gl06,gl0601,185.5,gl0601
+,City of London Borough,gl07,gl0701,5.7,gl0701
+,Croydon Borough,gl08,gl0801,331.2,gl0801
+,Ealing Borough,gl09,gl0901,293.9,gl0901
+,Enfield Borough,gl10,gl1001,268,gl1001
+,Greenwich Borough,gl11,gl1101,211.3,gl1101
+,Hackney Borough,gl12,gl1201,191.8,gl1201
+,Hammersmith & Fulham Borough,gl13,gl1301,154.8,gl1301
+,Haringey Borough,gl14,gl1401,214.8,gl1401
+,Harrow Borough,gl15,gl1501,206.8,gl1501
+,Havering Borough,gl16,gl1601,225.7,gl1601
+,Hillingdon Borough,gl17,gl1701,242.8,gl1701
+,Hounslow Borough,gl18,gl1801,210.1,gl1801
+,Islington Borough,gl19,gl1901,175.8,gl1901
+,Kensington & Chelsea Borough,gl20,gl2001,141.8,gl2001
+,Kingston upon Thames Borough,gl21,gl2101,141.4,gl2101
+,Lambeth Borough,gl22,gl2201,260.2,gl2201
+,Lewisham Borough,gl23,gl2301,244.1,gl2301
+,Merton Borough,gl24,gl2401,181.5,gl2401
+,Newham Borough,gl25,gl2501,231.2,gl2501
+,Redbridge Borough,gl26,gl2601,234.8,gl2601
+,Richmond upon Thames Borough,gl27,gl2701,169.8,gl2701
+,Southwark Borough,gl28,gl2801,238.8,gl2801
+,Sutton Borough,gl29,gl2901,176.9,gl2901
+,Tower Hamlets Borough,gl30,gl3001,184.6,gl3001
+,Waltham Forest Borough,gl31,gl3101,220.1,gl3101
+,Wandsworth Borough,gl32,gl3201,260.5,gl3201
+,Westminster Borough,gl33,gl3301,181.6,gl3301
+,Hartlepool,ne01,ne0101,90,ne0101
+,Middlesbrough,ne01,ne0102,144.5,ne0102
+,Redcar & Cleveland,ne01,ne0103,140.7,ne0103
+,Stockton-on-Tees,ne01,ne0104,178.1,ne0104
+,County Durham,ne02,ne0201,498.3,ne0201
+,Darlington,ne02,ne0202,99.3,ne0202
+,Northumberland,ne03,ne0301,306.7,ne0301
+,Gateshead,ne04,ne0401,195.9,ne0401
+,Newcastle upon Tyne,ne04,ne0402,278.1,ne0402
+,North Tyneside,ne04,ne0403,190.7,ne0403
+,South Tyneside,ne04,ne0404,155,ne0404
+,Sunderland,ne04,ne0405,290.9,ne0405
+,Chester West & Chester,nw01,nw0101,319.1,nw0101
+,Chester East,nw01,nw0102,351.1,nw0102
+,Halton,nw01,nw0103,121,nw0103
+,Warrington,nw01,nw0104,188.9,nw0104
+,Allerdale,nw02,nw0201,94.8,nw0201
+,Barrow-in-Furness,nw02,nw0202,72.1,nw0202
+,Carlisle,nw02,nw0203,101.9,nw0203
+,Copeland,nw02,nw0204,70.4,nw0204
+,Eden,nw02,nw0205,48.5,nw0205
+,South Lakeland,nw02,nw0206,100.5,nw0206
+,Bolton,nw03,nw0301,260,nw0301
+,Bury,nw03,nw0302,179.7,nw0302
+,Manchester,nw03,nw0303,418.2,nw0303
+,Oldham,nw03,nw0304,219,nw0304
+,Rochdale,nw03,nw0305,204.1,nw0305
+,Salford,nw03,nw0306,223.9,nw0306
+,Stockport,nw03,nw0307,286.6,nw0307
+,Tameside,nw03,nw0308,215.9,nw0308
+,Trafford,nw03,nw0309,213.8,nw0309
+,Wigan,nw03,nw0310,302.1,nw0310
+,Blackburn with Darwen,nw04,nw0401,138.9,nw0401
+,Blackpool,nw04,nw0402,145.5,nw0402
+,Burnley,nw04,nw0403,91,nw0403
+,Chorley,nw04,nw0404,97.9,nw0404
+,Fylde,nw04,nw0405,72.7,nw0405
+,Hyndburn,nw04,nw0406,80.6,nw0406
+,Lancaster,nw04,nw0407,134.2,nw0407
+,Pendle,nw04,nw0408,87.2,nw0408
+,Preston,nw04,nw0409,132.4,nw0409
+,Ribble Valley,nw04,nw0410,52.1,nw0410
+,Rossendale,nw04,nw0411,65.3,nw0411
+,South Ribble,nw04,nw0412,102.3,nw0412
+,West Lancashire,nw04,nw0413,108.2,nw0413
+,Wyre,nw04,nw0414,103.5,nw0414
+,Knowsley,nw05,nw0501,152.8,nw0501
+,Liverpool,nw05,nw0502,456.7,nw0502
+,Sefton,nw05,nw0503,286.5,nw0503
+,St. Helens,nw05,nw0504,176.9,nw0504
+,Wirral,nw05,nw0505,320.4,nw0505
+,East Ayrshire,sc01,sc0101,121.4,sc0101
+,North Ayrshire,sc01,sc0102,137.7,sc0102
+,South Ayrshire,sc01,sc0103,113.6,sc0103
+,Scottish Borders,sc02,sc0201,105.9,sc0201
+,Clackmannanshire,sc03,sc0301,48.5,sc0301
+,Falkirk,sc03,sc0302,143.3,sc0302
+,Stirling,sc03,sc0303,84,sc0303
+,Argyll & Bute,sc04,sc0401,91.7,sc0401
+,East Dunbartonshire,sc04,sc0402,109.3,sc0402
+,West Dunbartonshire,sc04,sc0403,95.2,sc0403
+,Dumfries & Galloway,sc05,sc0501,148.6,sc0501
+,Fife,sc06,sc0601,346.6,sc0601
+,"Glasgow, City of",sc07,sc0701,591,sc0701
+,Aberdeen City,sc08,sc0801,217.2,sc0801
+,Aberdeenshire,sc08,sc0802,226.1,sc0802
+,Eilean Siar (Western Isles),sc09,sc0901,27.9,sc0901
+,Highland,sc09,sc0902,208.6,sc0902
+,Moray,sc09,sc0903,87.1,sc0903
+,Orkney Islands,sc09,sc0904,19.7,sc0904
+,Shetland Islands,sc09,sc0905,22.8,sc0905
+,North Lanarkshire,sc10,sc1001,322.4,sc1001
+,South Lanarkshire,sc10,sc1002,304.3,sc1002
+,East Lothian,sc11,sc1101,87.7,sc1101
+,"Edinburgh, City of",sc11,sc1102,445.6,sc1102
+,Midlothian,sc11,sc1103,79.5,sc1103
+,West Lothian,sc11,sc1104,151.7,sc1104
+,East Renfrewshire,sc12,sc1201,87.9,sc1201
+,Inverclyde,sc12,sc1202,86.4,sc1202
+,Renfrewshire,sc12,sc1203,175.8,sc1203
+,Angus,sc13,sc1301,110,sc1301
+,Dundee City,sc13,sc1302,151.2,sc1302
+,Perth & Kinross,sc13,sc1303,134,sc1303
+,Bracknell Forest,se01,se0101,108.8,se0101
+,Reading,se01,se0102,142.2,se0102
+,Slough,se01,se0103,116.5,se0103
+,West Berkshire,se01,se0104,143.6,se0104
+,Windsor & Maidenhead,se01,se0105,134.8,se0105
+,Wokingham,se01,se0106,146.6,se0106
+,Aylesbury Vale,se02,se0201,157.8,se0201
+,Chiltern,se02,se0202,90.9,se0202
+,Milton Keynes,se02,se0203,199.7,se0203
+,South Bucks,se02,se0204,61.2,se0204
+,Wycombe,se02,se0205,161.2,se0205
+,Brighton & Hove,se03,se0301,244.8,se0301
+,Eastbourne,se03,se0302,87.5,se0302
+,Hastings,se03,se0303,82.4,se0303
+,Lewes,se03,se0304,88.7,se0304
+,Rother,se03,se0305,86,se0305
+,Wealden,se03,se0306,137.4,se0306
+,Basingstoke & Deane,se04,se0401,149.1,se0401
+,East Hampshire,se04,se0402,108.4,se0402
+,Eastleigh,se04,se0403,110.9,se0403
+,Fareham,se04,se0404,105.1,se0404
+,Gosport,se04,se0405,76.9,se0405
+,Hart,se04,se0406,82.8,se0406
+,Havant,se04,se0407,116.7,se0407
+,New Forest,se04,se0408,168.5,se0408
+,Portsmouth,se04,se0409,189.5,se0409
+,Rushmoor,se04,se0410,87.2,se0410
+,Southampton,se04,se0411,213.9,se0411
+,Test Valley,se04,se0412,106.6,se0412
+,Winchester,se04,se0413,105.3,se0413
+,Isle of Wight,se05,se0501,127.3,se0501
+,Ashford,se06,se0601,97.4,se0601
+,Canterbury,se06,se0602,132.4,se0602
+,Dartford,se06,se0603,83.8,se0603
+,Dover,se06,se0604,103.5,se0604
+,Gravesham,se06,se0605,93.3,se0605
+,Maidstone,se06,se0606,138.4,se0606
+,Medway Towns,se06,se0607,242.6,se0607
+,Sevenoaks,se06,se0608,109.3,se0608
+,Shepway,se06,se0609,94.8,se0609
+,Swale,se06,se0610,118.2,se0610
+,Thanet,se06,se0611,125.3,se0611
+,Tonbridge & Malling,se06,se0612,104.6,se0612
+,Tunbridge Wells,se06,se0613,101.7,se0613
+,Cherwell,se07,se0701,127.6,se0701
+,Oxford,se07,se0702,133,se0702
+,South Oxfordshire,se07,se0703,125.7,se0703
+,Vale of White Horse,se07,se0704,112.2,se0704
+,West Oxfordshire,se07,se0705,94.7,se0705
+,Elmbridge,se08,se0801,119.3,se0801
+,Epsom & Ewell,se08,se0802,66.5,se0802
+,Guildford,se08,se0803,125.6,se0803
+,Mole Valley,se08,se0804,79.4,se0804
+,Reigate & Banstead,se08,se0805,122.2,se0805
+,Runnymede,se08,se0806,75.8,se0806
+,Spelthorne,se08,se0807,89.2,se0807
+,Surrey Heath,se08,se0808,79.9,se0808
+,Tandridge,se08,se0809,76.8,se0809
+,Waverley,se08,se0810,114.7,se0810
+,Woking,se08,se0811,88.3,se0811
+,Adur,se09,se0901,58.5,se0901
+,Arun,se09,se0902,136.7,se0902
+,Chichester,se09,se0903,103.9,se0903
+,Crawley,se09,se0904,96.6,se0904
+,Horsham,se09,se0905,118.5,se0905
+,Mid Sussex,se09,se0906,125.6,se0906
+,Worthing,se09,se0907,96.2,se0907
+,Bath & North East Somerset,sw01,sw0101,164.8,sw0101
+,"Bristol, City of",sw01,sw0102,389.2,sw0102
+,North Somerset,sw01,sw0103,184.1,sw0103
+,South Gloucestershire,sw01,sw0104,236.1,sw0104
+,Cornwall,sw02,sw0201,483.1,sw0201
+,Isles of Scilly,sw02,sw0202,2,sw0202
+,East Devon,sw03,sw0301,122.1,sw0301
+,Exeter,sw03,sw0302,108.1,sw0302
+,Mid Devon,sw03,sw0303,66.3,sw0303
+,North Devon,sw03,sw0304,85.7,sw0304
+,Plymouth,sw03,sw0305,245.8,sw0305
+,South Hams,sw03,sw0306,80.1,sw0306
+,Teignbridge,sw03,sw0307,116.9,sw0307
+,Torbay,sw03,sw0308,124.4,sw0308
+,Torridge,sw03,sw0309,55.2,sw0309
+,West Devon,sw03,sw0310,47,sw0310
+,Bournemouth,sw04,sw0401,160.4,sw0401
+,Christchurch,sw04,sw0402,43.6,sw0402
+,East Dorset,sw04,sw0403,81.8,sw0403
+,North Dorset,sw04,sw0404,58.9,sw0404
+,Poole,sw04,sw0405,138.9,sw0405
+,Purbeck,sw04,sw0406,44.2,sw0406
+,West Dorset,sw04,sw0407,89.9,sw0407
+,Weymouth & Portland,sw04,sw0408,63.3,sw0408
+,Cheltenham,sw05,sw0501,108,sw0501
+,Cotswold,sw05,sw0502,79.8,sw0502
+,Forest of Dean,sw05,sw0503,77.7,sw0503
+,Gloucester,sw05,sw0504,107,sw0504
+,Stroud,sw05,sw0505,107.2,sw0505
+,Tewkesbury,sw05,sw0506,76.4,sw0506
+,Mendip,sw06,sw0601,100.2,sw0601
+,Sedgemoor,sw06,sw0602,102.8,sw0602
+,South Somerset,sw06,sw0603,148.5,sw0603
+,Taunton Deane,sw06,sw0604,98.6,sw0604
+,West Somerset,sw06,sw0605,33.5,sw0605
+,Wiltshire UA,sw07,sw0701,418.9,sw0701
+,Swindon,sw07,sw0702,175.3,sw0702
+,Blaenau Gwent,wa01,wa0101,72,wa0101
+,Caerphilly,wa01,wa0102,167.5,wa0102
+,Monmouthshire,wa01,wa0103,85,wa0103
+,Newport,wa01,wa0104,135.5,wa0104
+,Torfaen,wa01,wa0105,91.4,wa0105
+,Bridgend,wa02,wa0201,128.2,wa0201
+,Merthyr Tydfil,wa02,wa0202,57.4,wa0202
+,"Rhondda, Cynon, Taff",wa02,wa0203,235.8,wa0203
+,"Anglesey, Isle of",wa03,wa0301,68.1,wa0301
+,Conwy,wa03,wa0302,108.1,wa0302
+,Denbighshire,wa03,wa0303,90.6,wa0303
+,Flintshire,wa03,wa0304,144.8,wa0304
+,Gwynedd,wa03,wa0305,117.6,wa0305
+,Wrexham,wa03,wa0306,125.7,wa0306
+,Powys,wa04,wa0401,124.7,wa0401
+,Cardiff,wa05,wa0501,307.2,wa0501
+,The Vale of Glamorgan,wa05,wa0502,117,wa0502
+,Carmarthenshire,wa06,wa0601,171.5,wa0601
+,Ceredigion,wa06,wa0602,71.6,wa0602
+,Neath Port Talbot,wa06,wa0603,136.8,wa0603
+,Pembrokeshire,wa06,wa0604,111.7,wa0604
+,Swansea,wa06,wa0605,226.7,wa0605
+,Bromsgrove,wm01,wm0101,86.5,wm0101
+,Herefordshire,wm01,wm0102,168.5,wm0102
+,Malvern Hills,wm01,wm0103,72,wm0103
+,Redditch,wm01,wm0104,77.7,wm0104
+,Worcester,wm01,wm0105,90.9,wm0105
+,Wychavon,wm01,wm0106,108.5,wm0106
+,Wyre Forest,wm01,wm0107,96.8,wm0107
+,Shropshire UA,wm02,wm0201,275.1,wm0201
+,Telford and Wrekin,wm02,wm0202,149.8,wm0202
+,Cannock Chase,wm03,wm0301,90.7,wm0301
+,East Staffordshire,wm03,wm0302,101,wm0302
+,Lichfield,wm03,wm0303,93.3,wm0303
+,Newcastle-under-Lyme,wm03,wm0304,121.7,wm0304
+,South Staffordshire,wm03,wm0305,104.8,wm0305
+,Stafford,wm03,wm0306,123.1,wm0306
+,Staffordshire Moorlands,wm03,wm0307,93.3,wm0307
+,Stoke-on-Trent,wm03,wm0308,247.3,wm0308
+,Tamworth,wm03,wm0309,73.1,wm0309
+,North Warwickshire,wm04,wm0401,61.6,wm0401
+,Nuneaton & Bedworth,wm04,wm0402,118,wm0402
+,Rugby,wm04,wm0403,85.5,wm0403
+,Stratford-on-Avon,wm04,wm0404,109.8,wm0404
+,Warwick,wm04,wm0405,122.1,wm0405
+,Birmingham,wm05,wm0501,994.2,wm0501
+,Coventry,wm05,wm0502,304.9,wm0502
+,Dudley,wm05,wm0503,305.4,wm0503
+,Sandwell,wm05,wm0504,287.8,wm0504
+,Solihull,wm05,wm0505,200.7,wm0505
+,Walsall,wm05,wm0506,256.7,wm0506
+,Wolverhampton,wm05,wm0507,243,wm0507
+,East Riding of Yorkshire,yh01,yh0101,305.5,yh0101
+,"Kingston upon Hull, City of",yh01,yh0102,262.2,yh0102
+,North East Lincolnshire,yh01,yh0103,158.5,yh0103
+,North Lincolnshire,yh01,yh0104,152.3,yh0104
+,Craven,yh02,yh0201,52.3,yh0201
+,Hambleton,yh02,yh0202,82.8,yh0202
+,Harrogate,yh02,yh0203,145.9,yh0203
+,Richmondshire,yh02,yh0204,44.2,yh0204
+,Ryedale,yh02,yh0205,49.2,yh0205
+,Scarborough,yh02,yh0206,107,yh0206
+,Selby,yh02,yh0207,73.9,yh0207
+,York,yh02,yh0208,175.1,yh0208
+,Barnsley,yh03,yh0301,219.8,yh0301
+,Doncaster,yh03,yh0302,288.8,yh0302
+,Rotherham,yh03,yh0303,250.1,yh0303
+,Sheffield,yh03,yh0304,517.7,yh0304
+,Bradford,yh04,yh0401,469.2,yh0401
+,Calderdale,yh04,yh0402,191.1,yh0402
+,Kirklees,yh04,yh0403,384,yh0403
+,Leeds,yh04,yh0404,716.2,yh0404
+,Wakefield,yh04,yh0405,312.4,yh0405
+,Derbyshire,em,em01,,em01
+,Leicestershire,em,em02,,em02
+,Lincolnshire,em,em03,,em03
+,Northamptonshire,em,em04,,em04
+,Nottinghamshire,em,em05,,em05
+,Bedfordshire,et,et01,,et01
+,Cambridgeshire,et,et02,,et02
+,Essex,et,et03,,et03
+,Hertfordshire,et,et04,,et04
+,Norfolk,et,et05,,et05
+,Suffolk,et,et06,,et06
+,Barking & Dagenham,gl,gl01,,gl01
+,Barnet,gl,gl02,,gl02
+,Bexley,gl,gl03,,gl03
+,Brent,gl,gl04,,gl04
+,Bromley,gl,gl05,,gl05
+,Camden,gl,gl06,,gl06
+,City of London,gl,gl07,,gl07
+,Croydon,gl,gl08,,gl08
+,Ealing,gl,gl09,,gl09
+,Enfield,gl,gl10,,gl10
+,Greenwich,gl,gl11,,gl11
+,Hackney,gl,gl12,,gl12
+,Hammersmith & Fulham,gl,gl13,,gl13
+,Haringey,gl,gl14,,gl14
+,Harrow,gl,gl15,,gl15
+,Havering,gl,gl16,,gl16
+,Hillingdon,gl,gl17,,gl17
+,Hounslow,gl,gl18,,gl18
+,Islington,gl,gl19,,gl19
+,Kensington & Chelsea,gl,gl20,,gl20
+,Kingston upon Thames,gl,gl21,,gl21
+,Lambeth,gl,gl22,,gl22
+,Lewisham,gl,gl23,,gl23
+,Merton,gl,gl24,,gl24
+,Newham,gl,gl25,,gl25
+,Redbridge,gl,gl26,,gl26
+,Richmond upon Thames,gl,gl27,,gl27
+,Southwark,gl,gl28,,gl28
+,Sutton,gl,gl29,,gl29
+,Tower Hamlets,gl,gl30,,gl30
+,Waltham Forest,gl,gl31,,gl31
+,Wandsworth,gl,gl32,,gl32
+,Westminster,gl,gl33,,gl33
+,Cleveland,ne,ne01,,ne01
+,Durham (county of),ne,ne02,,ne02
+,Northumberland (county of),ne,ne03,,ne03
+,Tyne & Wear,ne,ne04,,ne04
+,Cheshire,nw,nw01,,nw01
+,Cumbria,nw,nw02,,nw02
+,Greater Manchester,nw,nw03,,nw03
+,Lancashire,nw,nw04,,nw04
+,Merseyside,nw,nw05,,nw05
+,Ayrshire,sc,sc01,,sc01
+,Borders,sc,sc02,,sc02
+,Central,sc,sc03,,sc03
+,Dumbartonshire,sc,sc04,,sc04
+,Dumfries & Galloway (county of),sc,sc05,,sc05
+,Fife (county of),sc,sc06,,sc06
+,Glasgow,sc,sc07,,sc07
+,Grampian,sc,sc08,,sc08
+,Highlands & Islands,sc,sc09,,sc09
+,Lanarkshire,sc,sc10,,sc10
+,Lothian,sc,sc11,,sc11
+,Renfrewshire (county of),sc,sc12,,sc12
+,Tayside,sc,sc13,,sc13
+,Berkshire,se,se01,,se01
+,Buckinghamshire,se,se02,,se02
+,East Sussex,se,se03,,se03
+,Hampshire,se,se04,,se04
+,Isle of Wight (county of),se,se05,,se05
+,Kent,se,se06,,se06
+,Oxfordshire,se,se07,,se07
+,Surrey,se,se08,,se08
+,West Sussex,se,se09,,se09
+,Avon,sw,sw01,,sw01
+,Cornwall & Isles of Scilly,sw,sw02,,sw02
+,Devon,sw,sw03,,sw03
+,Dorset,sw,sw04,,sw04
+,Gloucestershire,sw,sw05,,sw05
+,Somerset,sw,sw06,,sw06
+,Wiltshire,sw,sw07,,sw07
+,Gwent,wa,wa01,,wa01
+,Mid-Glamorgan,wa,wa02,,wa02
+,North Wales,wa,wa03,,wa03
+,Powys (county of),wa,wa04,,wa04
+,South Glamorgan,wa,wa05,,wa05
+,West Wales,wa,wa06,,wa06
+,Hereford & Worcester,wm,wm01,,wm01
+,Shropshire,wm,wm02,,wm02
+,Staffordshire,wm,wm03,,wm03
+,Warwickshire,wm,wm04,,wm04
+,West Midlands County,wm,wm05,,wm05
+,Humberside,yh,yh01,,yh01
+,North Yorkshire,yh,yh02,,yh02
+,South Yorkshire,yh,yh03,,yh03
+,West Yorkshire,yh,yh04,,yh04
+,East Midlands,UK,em,,em
+,East of England,UK,et,et
+,Greater London,UK,gl,,gl
+,North East,UK,ne,,ne
+,Northern Ireland,UK,ni,1671.28,ni
+,North West,UK,nw,,nw
+,Scotland,UK,sc,,sc
+,South East,UK,se,,se
+,South West,UK,sw,,sw
+,Wales,UK,wa,,wa
+,West Midlands,UK,wm,,wm
+,Yorkshire & Humber,UK,yh,,yh
+,UK,,UK,,UK

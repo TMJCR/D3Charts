@@ -1,0 +1,71 @@
+<!--
+Adapted from Eduard Trott at bl.ocks.org
+https://bl.ocks.org/maybelinot/5552606564ef37b5de7e47ed2b7dc099
+-->
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<title>Regional Population</title>
+	<!-- Bootstrap Core CSS -->
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<!-- Custom CSS -->
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<script src="data/popData.js"></script>
+	<!-- <nav class="navbar navbar-default"></nav> -->
+	<!-- Main jumbotron for a primary marketing message or call to action -->
+	<div class="jumbotron">
+		<div class="container">
+			<h1 class="display-3">Regional Population</h1>
+			<p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+			<p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+		</div>
+	</div>
+	<div class="container">
+		<!-- Example row of columns -->
+		<div class="row">
+			<div class="col-md-6">
+				<h2 id="region">Select A Region from the Chart</h2>
+				<div id="barChart" class="container"></div>
+				<!-- 				<p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p> -->
+			</div>
+			<div id="viz"class="col-md-6">
+				<h3 class="text-center" id="regionTitle">Region</h3>
+			</div>
+		</div>
+		<hr>
+		<div class="container">
+			<select id="local" size="3">
+				<option value="Birmingham"selected>Birmingham</option>
+				<option value="Renfrewshire">Renfrewshire</option>
+				<option value="Leeds">Leeds</option>
+				<option value="Boston">Boston</option>
+				<option value="Liverpool">Liverpool</option>
+				<option value="Fife">Fife</option>
+				<option value="Shetland Islands">Shetland Islands</option>
+				<option value="Sheffield">Sheffield</option>
+				<option value="Selby">Selby</option>
+				<option value="Welwyn Hatfield">Welwyn Hatfield</option>
+				<option value="Oxford">Oxford</option>
+			</select>
+			<svg id="lineChartRaw"
+				version="1.1"
+				baseProfile="full"
+				xmlns="http://www.w3.org/2000/svg" >
+			</svg>
+			
+		</div>
+		<hr>
+		<footer>
+			<p>&copy; Copyright 2018</p>
+		</footer>
+		</div> <!-- /container -->
+		<script src="https://d3js.org/d3.v4.min.js"></script>
+		<script src="./app.js"></script>
+		<script src="./lineChart.js"></script>
+		<script src="./bars.js"></script>
+		
+		
+	</body>
